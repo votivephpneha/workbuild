@@ -11601,7 +11601,7 @@ ul li {
   transition: all 0.3s ease-in-out;
   display: block;
   margin-bottom: 28px;
-  overflow: hidden;
+  
 }
 @media screen and (max-width: 767px) {
   .discover-service .tab-body .discover-service-card {
