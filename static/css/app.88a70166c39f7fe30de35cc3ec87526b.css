@@ -12917,4 +12917,7 @@ footer .bottom-footer .btn-wrapper a {
     font-style: normal;
     font-display: swap;
 }
+.review img{
+	width: 13px !important; 
+}
 
