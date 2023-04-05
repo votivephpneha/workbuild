@@ -12955,3 +12955,11 @@ footer .bottom-footer .btn-wrapper a {
 .alradt-acount {
 	 margin-top: -5px !important;
 	}   
+.signin-box_bx .form-control:focus, .signin-box_b .form-control:focus {
+    color: #495057 !important;
+    background-color: #fff !important;
+    border-color: #80bdff !important;
+    outline: 0 !important;
+    -webkit-box-shadow: 0 1px 0 #378ef0 !important;
+    box-shadow: 0 1px 0 #378ef0 !important;
+}
