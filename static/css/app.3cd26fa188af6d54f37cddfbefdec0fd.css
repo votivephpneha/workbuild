@@ -12838,7 +12838,7 @@ header .top-header:before {
 }
 @media screen and (max-width: 767px) {
   .bottom-header {
-    padding: 10px 0 10px;
+    padding: 10px 0 10px !important;
   }
 }
 .bottom-header ul.menu li {
