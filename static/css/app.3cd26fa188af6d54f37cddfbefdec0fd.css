@@ -13362,7 +13362,7 @@ header {
     width: 100%;
 }
 }
-@media screen and (max-width: 3500px) and (min-width: 1600px){
+@media screen and (max-width: 4500px) and (min-width: 1600px){
 header {
     padding: 14px 0 12px;
     position: fixed;
