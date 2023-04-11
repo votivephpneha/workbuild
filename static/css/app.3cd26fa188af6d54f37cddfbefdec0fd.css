@@ -13376,17 +13376,10 @@ header {
 }
 
 
-top-header{
-
-  top: -50px;
-
-}
 header {
-  background: #ddd;
-  height: 50px;
-  position: fixed;
-  top: 0;
-  transition: top 0.2s ease-in-out;
-  width: 100%;
- 
+	width: 100%;
+	position: fixed;
+	font-size: 1.2em;
+  height: 30px;
+  transition: 0.6s ease;  
 }
