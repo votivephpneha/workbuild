@@ -13379,3 +13379,10 @@ header {
   height: 30px;
   transition: 0.6s ease;  
 }
+
+@media screen and (max-width: 767px){
+.header-tags-slider .owl-item {
+    margin-right: 38px!important;
+    width: auto !important;
+}
+}
